@@ -1,4 +1,4 @@
-#Arabic Bot 0 | البوت العربي 0
+
 Discord = require('discord.js');
 
 
